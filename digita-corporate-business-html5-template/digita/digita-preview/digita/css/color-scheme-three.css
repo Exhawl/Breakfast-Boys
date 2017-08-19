@@ -1,0 +1,35 @@
+.color-scheme-three .single-process-inner:hover {
+    border-color: linear-gradient(to right, rgba(71, 213, 255, 1), rgba(0, 219, 170, 1));
+}
+
+.color-scheme-three .portfolio-item-description {
+    background: -webkit-linear-gradient(left, rgba(71, 213, 255, 0.85), rgba(0, 219, 170, 0.85));
+    background: linear-gradient(to right, rgba(71, 213, 255, 0.85), rgba(0, 219, 170, 0.85));
+}
+
+.color-scheme-three #testimonial-section .slick-dots .slick-active button {
+    background-color: #fff;
+    border-color: #fff;
+}
+
+.color-scheme-three .cta-inner > h2,
+.color-scheme-three .cta-inner p {
+    color: #fff;
+}
+
+.color-scheme-three .contact-form-area .btn-grad.btn-bordered:after {
+    background-color: #fafafa;
+}
+
+.color-scheme-three.mean-container a.meanmenu-reveal span {
+    background-color: #fff;
+}
+
+.color-scheme-three.mean-container a.meanmenu-reveal {
+    color: #fff;
+}
+
+.color-scheme-three .slider-wrapper.color-bg {
+	background: -webkit-linear-gradient(left, rgba(71, 213, 255, 1), rgba(0, 219, 170, 1));
+	background: linear-gradient(to right, rgba(71, 213, 255, 1), rgba(0, 219, 170, 1));
+}

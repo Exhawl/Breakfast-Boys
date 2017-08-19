@@ -1,0 +1,89 @@
+.color-scheme-one a,
+.color-scheme-one a:focus,
+.color-scheme-one a:hover,
+.color-scheme-one .quick-contact a:hover,
+.color-scheme-one .quick-contact a i,
+.color-scheme-one .social-links a:hover,
+.color-scheme-one .navigation > ul > li:hover > a,
+.color-scheme-one .single-process i,
+.color-scheme-one .single-process-inner:hover h6,
+.color-scheme-one .single-service:hover .service-icon i,
+.color-scheme-one .single-service:hover .service-details h6,
+.color-scheme-one .single-fact i,
+.color-scheme-one .portfolio-filter a:hover,
+.color-scheme-one .portfolio-filter .active > a,
+.color-scheme-one .portfolio-item-description h4 a:hover,
+.color-scheme-one .pricing-style-2 .pricing-value > h1,
+.color-scheme-one .pricing-style-2 .single-price-table-inner:hover .pricing-value h1,
+.color-scheme-one .pricing-style-2 .single-price-table-inner:hover .pricing-value .doller-sign,
+.color-scheme-one .member-social a,
+.color-scheme-one .post-meta a:hover,
+.color-scheme-one .post-footer a:hover,
+.color-scheme-one .post-title a:hover,
+.color-scheme-one .map-info-icon,
+.color-scheme-one .single-footer-widget-inner a:hover,
+.color-scheme-one #newsletter-form > button,
+.color-scheme-one .services-style-3 .service-icon i,
+.color-scheme-one .fun-fact-style-2 .single-fact h2,
+.color-scheme-one .fun-fact-style-3 .single-fact h2,
+.color-scheme-one .fun-fact-style-3 .single-fact i,
+.color-scheme-one.mean-container a.meanmenu-reveal {
+    color: #00dbaa;
+}
+
+.color-scheme-one .dropdown-nav,
+.color-scheme-one .slick-dots button,
+.color-scheme-one .pricing-style-2 .single-price-table-inner:hover .pricing-footer .btn-bordered,
+.color-scheme-one .member-social a,
+.color-scheme-one #testimonial-section .slick-dots button,
+.color-scheme-one #testimonial-section .slick-dots .slick-active button,
+.color-scheme-one #testimonial-section .slick-prev,
+.color-scheme-one #testimonial-section .slick-next,
+.color-scheme-one .slick-prev:hover,
+.color-scheme-one .slick-prev:focus,
+.color-scheme-one .slick-next:hover,
+.color-scheme-one .slick-next:focus,
+.color-scheme-one .single-process-inner:hover,
+.color-scheme-one .services-style-3 .service-icon i,
+.color-scheme-one .extra-navigation li a:hover,
+.color-scheme-one .extra-navigation li a:focus {
+    border-color: #00dbaa;
+}
+
+.color-scheme-one .dropdown-nav li:hover > a,
+.color-scheme-one .slick-dots .slick-active button,
+.color-scheme-one .section-heading > h2::before,
+.color-scheme-one .section-heading > h2::after,
+.color-scheme-one .pricing-style-2 .single-price-table-inner:hover .pricing-head,
+.color-scheme-one .single-price-table-inner:hover .pricing-footer .btn,
+.color-scheme-one .member-social a:hover,
+.color-scheme-one #testimonial-section .slick-dots .slick-active button,
+.color-scheme-one #testimonial-section .slick-prev,
+.color-scheme-one #testimonial-section .slick-next,
+.color-scheme-one .slick-prev:hover,
+.color-scheme-one .slick-prev:focus,
+.color-scheme-one .slick-next:hover,
+.color-scheme-one .slick-next:focus,
+.color-scheme-one .mark,
+.color-scheme-one mark,
+.color-scheme-one .services-style-3 .single-service:hover .service-icon i,
+.color-scheme-one .extra-navigation li a:hover,
+.color-scheme-one .extra-navigation li a:focus,
+.color-scheme-one .extra-menu .extra-menu-close,
+.color-scheme-one.mean-container .mean-nav,
+.color-scheme-one.mean-container a.meanmenu-reveal span,
+.color-scheme-one .slider-wrapper.color-bg {
+    background-color: #00dbaa;
+}
+
+.color-scheme-one .btn,
+.color-scheme-one .btn:focus,
+.color-scheme-one .btn:hover {
+    color: #fff;
+}
+.color-scheme-one .btn-white,
+.color-scheme-one .btn-white:hover,
+.color-scheme-one .btn-white:focus {
+    background-color: #fff;
+    color: #464646;
+}
